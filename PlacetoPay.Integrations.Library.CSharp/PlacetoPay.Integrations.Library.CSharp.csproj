@@ -7,12 +7,12 @@
 
     <!-- NuGet Package Information -->
     <PackageId>PlacetoPay.Integrations.Library.CSharp</PackageId>
-    <Version>1.0.0</Version>
-    <Authors>Carl Camilleri</Authors>
+    <Version>1.0.1</Version>
+    <Authors>CS Technologies International LTD</Authors>
     <Company>CS Technologies International LTD</Company>
     <Description>PlacetoPay Integration Library for .NET Standard 2.0</Description>
-    <PackageProjectUrl>https://github.com/carlcamilleri/placetopay</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/carlcamilleri/placetopay</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/cs-technologies-net/placetopay</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cs-technologies-net/placetopay</RepositoryUrl>
     <PackageTags>placetopay;payments;integration</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
